@@ -39,7 +39,7 @@ Two Directories are included,
 # Software used
 
 - Arduino files run in Arduino IDE
-![image](https://github.com/mujiexu2/ELEC0130-assignment22-23/blob/main/images/arduinoide.png)
+![image](https://github.com/mujiexu2/ELEC0130-assignment22-23/blob/main/images/arduinoide.png#pic_left =180x360)
 
 - Python files run in Cloud9 IDE in AWS EC2 instance.
-![image](https://github.com/mujiexu2/ELEC0130-assignment22-23/blob/main/images/cloud9.png)
+![image](https://github.com/mujiexu2/ELEC0130-assignment22-23/blob/main/images/cloud9.png#pic_left =180x180)
