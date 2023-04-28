@@ -11,7 +11,6 @@ Developed a Smart Supermarket shelf, an IoT system, for increasing supermarket s
 The IoT system is based on the concepts of edge-cloud collaboration and AI models. 
 
 The edge devices, the IoT devices, are made up with arduino devices, in Fig:
-![](C:\Users\xmj_j\Desktop\iot report\ELEC0130-assignment22-23\images\components.png)
 
 The cloud system, AWS EC2 instance work as the server, MongoDB and DynamoDB does storaging, MongoDB works as the primary database and DynamoDB is the backup database.
 
@@ -41,3 +40,4 @@ Two Directories are included,
 - Arduino files run in Arduino IDE
 
 - Python files run in Cloud9 IDE in AWS EC2 instance.
+
